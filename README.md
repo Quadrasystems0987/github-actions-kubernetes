@@ -23,7 +23,7 @@ Automate your CI/CD pipeline using GitHub Actions and deploy your application se
 
 ---
 
-## Introduction
+## Introduction ##
 
 This repository contains a sample Node.js application that demonstrates how to set up a CI/CD pipeline using GitHub Actions to build and deploy to a Kubernetes cluster. By following this guide, you'll learn how to automate your deployments and ensure your applications are always up-to-date.
 
